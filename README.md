@@ -33,10 +33,13 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://t.me/solidprojects_chat"><img alt="SolidProject Support" src="https://img.shields.io/badge/SolidProject-Support-blue.svg?logo=telegram"></a> <br/>
 </ul>
 
-<h3>Deploy to Heroku </h3>
-<div>
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-</div>
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+
+**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
+<a href="https://youtu.be/O2tieQgzYZg">
+  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
+</a><br>
 
 ### Deploy to VPS
 ```
