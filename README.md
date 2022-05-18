@@ -33,6 +33,8 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://t.me/solidprojects_chat"><img alt="SolidProject Support" src="https://img.shields.io/badge/SolidProject-Support-blue.svg?logo=telegram"></a> <br/>
 </ul>
 
+##
+### Installation
 #### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
